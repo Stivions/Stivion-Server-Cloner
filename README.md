@@ -39,6 +39,6 @@
 ## 📁 Estructura de Archivos
 
 
-pyinstaller --onefile --windowed --name DiscordServerCloner.exe --icon src/interface/assets/logo.ico --add-data "src/interface/assets" --add-data "src/interface/language" --add-data ".env;." main.py
+pyinstaller --onefile --windowed --name DiscordServerCloner.exe --icon src/interface/assets/logo.ico --add-data "src/interface/assets;assets" --add-data "src/interface/language;language" --add-data ".env;." main.py
 
 
