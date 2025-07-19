@@ -1,7 +1,7 @@
 # 📦 Stivion Server Cloner
 
 ![Demo GIF](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
-*Ejemplo animado del programa en acción* (Reemplaza este enlace con tu GIF real)
+*Ejemplo animado del programa en acción*
 
 ---
 
@@ -20,7 +20,7 @@
 ## 🎬 Demostración
 
 ![Interfaz GIF](https://media.giphy.com/media/xT0GqssRweIhlz209i/giphy.gif)  
-*Interfaz intuitiva y moderna* (Reemplaza con tu GIF)
+*Interfaz intuitiva y moderna*
 
 ---
 
